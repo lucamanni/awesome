@@ -1,7 +1,8 @@
 ------------------------------------------------
---         Full Color Awesome Theme           --    
+--         Full Color Awesome Theme           --
 --              by Luca Manni                 --
 --    http://lucamanni88.deviantart.com/      --
+--    https://github.com/lucamanni/           --
 ------------------------------------------------
 
 -- {{{ Main

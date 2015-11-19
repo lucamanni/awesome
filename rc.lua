@@ -1,7 +1,8 @@
 ------------------------------------------------
---            Awesome 3.5 rc.lua              --    
+--        	 Full Color Awesome 3.5       	  --
 --               by Luca Manni                --
 --     http://lucamanni88.deviantart.com/     --
+--     https://github.com/lucamanni           --
 ------------------------------------------------
 
 
