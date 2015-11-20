@@ -94,7 +94,7 @@ function run_once(cmd)
   awful.util.spawn_with_shell("pgrep -u $USER -x " .. findme .. " > /dev/null || (" .. cmd .. ")")
 end
 
-run_once("sh .autostart/awesome.sh")
+run_once("sh .autostart/awesome")
 -- run_once("compton --backend glx --paint-on-overlay --vsync opengl-mswc -c -r 12 -l -15 -t -11 -G -b")
 run_once("compton --backend glx --paint-on-overlay --vsync opengl-mswc -b")
 run_once("udiskie -aNqs -f thunar")
